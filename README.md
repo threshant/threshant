@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @threshant Co-Founder and developer at Aviontive LLP
-- 👀 I’m interested in Mobile application development, IoT and Cyber security
+- 👀 I’m interested in Android development, IoT and Cyber security
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on open source android libraries 
 - 📫 Reach me at threshant@aviontive.com | https://linkedin.com/in/threshant
